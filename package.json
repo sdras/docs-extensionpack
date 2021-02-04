@@ -1,0 +1,45 @@
+{
+  "name": "docs-extensionpack",
+  "version": "0.1.0",
+  "publisher": "sdras",
+  "displayName": "Docs Extension Pack",
+  "description": "A collection of extensions for writing and editing docs in VS Code",
+  "license": "SEE LICENSE IN LICENSE",
+  "galleryBanner": {
+    "color": "#47B784",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "repository": {
+    "url": "https://github.com/sdras/docs-extensionpack"
+  },
+  "homepage": "https://github.com/sdras/docs-extensionpack",
+  "bugs": {
+    "url": "https://github.com/sdras/docs-extensionpack/issues"
+  },
+  "keywords": [
+    "docs",
+    "documentation",
+    "writing",
+    "editing",
+    "extension pack",
+    "docs extension collection"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "extensionPack": [
+    "streetsidesoftware.code-spell-checker",
+    "znck.grammarly",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "alefragnani.Bookmarks",
+    "wmaurer.vscode-jumpy",
+    "CoenraadS.bracket-pair-colorizer",
+    "sdras.inbedby7pm"
+  ]
+}
