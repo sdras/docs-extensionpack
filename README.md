@@ -21,4 +21,8 @@ These are some of my favorite extensions to make docs writing easier and fun, an
 - [Github](https://github.com/sdras/docs-extensionpack)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sdras.docs-extensionpack&WT.mc_id=marketplace-pack-sdras)
 
+## Dedication
+
+This extension is dedicated to the hardworking Netlify Documentation team ♥️
+
 **Enjoy!**
