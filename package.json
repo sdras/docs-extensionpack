@@ -6,7 +6,7 @@
   "description": "A collection of extensions for writing and editing docs in VS Code",
   "license": "SEE LICENSE IN LICENSE",
   "galleryBanner": {
-    "color": "#47B784",
+    "color": "#006569",
     "theme": "dark"
   },
   "icon": "logo.png",
