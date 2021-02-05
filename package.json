@@ -1,6 +1,6 @@
 {
   "name": "docs-extensionpack",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "sdras",
   "displayName": "Docs Extension Pack",
   "description": "A collection of extensions for writing and editing docs in VS Code",
